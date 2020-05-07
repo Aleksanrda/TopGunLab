@@ -1,0 +1,17 @@
+C:\Users\UserA\Github\Education\TeamInternational\Task5\Task5.DataAccess\bin\Debug\Task5.DataAccess.dll.config
+C:\Users\UserA\Github\Education\TeamInternational\Task5\Task5.DataAccess\bin\Debug\Task5.DataAccess.dll
+C:\Users\UserA\Github\Education\TeamInternational\Task5\Task5.DataAccess\bin\Debug\Task5.DataAccess.pdb
+C:\Users\UserA\Github\Education\TeamInternational\Task5\Task5.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\UserA\Github\Education\TeamInternational\Task5\Task5.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\UserA\Github\Education\TeamInternational\Task5\Task5.DataAccess\bin\Debug\Task5.Core.dll
+C:\Users\UserA\Github\Education\TeamInternational\Task5\Task5.DataAccess\bin\Debug\Task5.Core.pdb
+C:\Users\UserA\Github\Education\TeamInternational\Task5\Task5.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\UserA\Github\Education\TeamInternational\Task5\Task5.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\UserA\Github\Education\TeamInternational\Task5\Task5.DataAccess\obj\Debug\Task5.DataAccess.csprojAssemblyReference.cache
+C:\Users\UserA\Github\Education\TeamInternational\Task5\Task5.DataAccess\obj\Debug\Task5.DataAccess.csproj.CopyComplete
+C:\Users\UserA\Github\Education\TeamInternational\Task5\Task5.DataAccess\obj\Debug\Task5.DataAccess.dll
+C:\Users\UserA\Github\Education\TeamInternational\Task5\Task5.DataAccess\obj\Debug\Task5.DataAccess.pdb
+C:\Users\UserA\Github\Education\TeamInternational\Task5\Task5.DataAccess\obj\Debug\Task5.DataAccess.Migrations.AddNewField.resources
+C:\Users\UserA\Github\Education\TeamInternational\Task5\Task5.DataAccess\obj\Debug\Task5.DataAccess.csproj.GenerateResource.cache
+C:\Users\UserA\Github\Education\TeamInternational\Task5\Task5.DataAccess\obj\Debug\Task5.DataAccess.Migrations.Migration.resources
+C:\Users\UserA\Github\Education\TeamInternational\Task5\Task5.DataAccess\obj\Debug\Task5.DataAccess.Migrations.ModifyEntities.resources

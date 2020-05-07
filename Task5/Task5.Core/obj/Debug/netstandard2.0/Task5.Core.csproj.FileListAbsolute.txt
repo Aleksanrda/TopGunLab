@@ -1,0 +1,15 @@
+C:\Users\UserA\Github\Education\TeamInternational\Task5\Task5.Core\bin\Debug\netstandard2.0\Task5.Core.deps.json
+C:\Users\UserA\Github\Education\TeamInternational\Task5\Task5.Core\bin\Debug\netstandard2.0\Task5.Core.dll
+C:\Users\UserA\Github\Education\TeamInternational\Task5\Task5.Core\bin\Debug\netstandard2.0\Task5.Core.pdb
+C:\Users\UserA\Github\Education\TeamInternational\Task5\Task5.Core\obj\Debug\netstandard2.0\Task5.Core.csprojAssemblyReference.cache
+C:\Users\UserA\Github\Education\TeamInternational\Task5\Task5.Core\obj\Debug\netstandard2.0\Task5.Core.AssemblyInfoInputs.cache
+C:\Users\UserA\Github\Education\TeamInternational\Task5\Task5.Core\obj\Debug\netstandard2.0\Task5.Core.AssemblyInfo.cs
+C:\Users\UserA\Github\Education\TeamInternational\Task5\Task5.Core\obj\Debug\netstandard2.0\Task5.Core.dll
+C:\Users\UserA\Github\Education\TeamInternational\Task5\Task5.Core\obj\Debug\netstandard2.0\Task5.Core.pdb
+C:\Users\UserA\Github\Education\TeamInternational\Task5\Task5.Core\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\UserA\Github\Education\TeamInternational\Task5\Task5.Core\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\UserA\Github\Education\TeamInternational\Task5\Task5.Core\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\UserA\Github\Education\TeamInternational\Task5\Task5.Core\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+C:\Users\UserA\Github\Education\TeamInternational\Task5\Task5.Core\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\UserA\Github\Education\TeamInternational\Task5\Task5.Core\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\UserA\Github\Education\TeamInternational\Task5\Task5.Core\obj\Debug\netstandard2.0\Task5.Core.csproj.CopyComplete

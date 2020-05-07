@@ -1,0 +1,8 @@
+C:\Users\UserA\Github\Education\TeamInternational\Task5\Task5.Api\bin\Debug\Task5.Api.dll
+C:\Users\UserA\Github\Education\TeamInternational\Task5\Task5.Api\bin\Debug\Task5.Api.pdb
+C:\Users\UserA\Github\Education\TeamInternational\Task5\Task5.Api\bin\Debug\Task5.Core.dll
+C:\Users\UserA\Github\Education\TeamInternational\Task5\Task5.Api\bin\Debug\Task5.Core.pdb
+C:\Users\UserA\Github\Education\TeamInternational\Task5\Task5.Api\obj\Debug\Task5.Api.csprojAssemblyReference.cache
+C:\Users\UserA\Github\Education\TeamInternational\Task5\Task5.Api\obj\Debug\Task5.Api.csproj.CopyComplete
+C:\Users\UserA\Github\Education\TeamInternational\Task5\Task5.Api\obj\Debug\Task5.Api.dll
+C:\Users\UserA\Github\Education\TeamInternational\Task5\Task5.Api\obj\Debug\Task5.Api.pdb
